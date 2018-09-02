@@ -1,1 +1,1 @@
-# ITMD361-lab
+# This repo contains all lab folders of ITMD361
